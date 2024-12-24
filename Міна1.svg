@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Корпус міни -->
+  <circle cx="50" cy="50" r="45" fill="#D2D2D2" stroke="#A9A9A9" stroke-width="4"/>
+  
+  <!-- Середина міни -->
+  <circle cx="50" cy="50" r="30" fill="#D2D2D2" stroke="#A9A9A9" stroke-width="3"/>
+  
+  <!-- Центральна частина -->
+  <circle cx="50" cy="50" r="5" fill="#A9A9A9"/>
+  
+  <!-- Лінії -->
+  <line x1="50" y1="5" x2="50" y2="20" stroke="#A9A9A9" stroke-width="3"/>
+  <line x1="95" y1="50" x2="80" y2="50" stroke="#A9A9A9" stroke-width="3"/>
+  <line x1="50" y1="95" x2="50" y2="80" stroke="#A9A9A9" stroke-width="3"/>
+  <line x1="5" y1="50" x2="20" y2="50" stroke="#A9A9A9" stroke-width="3"/>
+</svg>
